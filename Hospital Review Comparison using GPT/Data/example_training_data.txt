@@ -1,0 +1,183 @@
+As honestly as possible, summarize the following hospital reviews in the following list format. If the review does not address a list item, leave it blank.
+1. Names and impression of named hospital staff:
+2. Is the reviewer the patient? If not, what relationship does the reviewer have with the patient:
+3. medical reason for the hospital visit:
+4. Procedureds preformed or care recieved:
+5. distance or time traveled:
+6. time spent waiting for care:
+7. age of patient:
+8. Description of hospital:
+9. impression of medical staff:
+10. accusations:
+11. sentiment:
+12. Outcome from hospital visit:
+13. lenght of hospital stay:
+14. Facilities and services used:
+
+Everyone from the emergency department to the inpatient nurses and Dr's were amazing.  They took such great care of my mother.  When it became obvious that she was not going to make it they treated our family with such compassion.  They went above and beyond making sure we had everything we needed to make us as comfortable as possible so we could stay with her. Answering every question we had, making our mom comfortable so she was peaceful.  I can't begin to thank them enough for everything they did. All I can add is they made a horrible time alot easier. A huge thank you to everyone who took care of her and us❤️
+
+2. Mother
+9. Amazing, Compassionate
+11. Very positive, thankful
+
+This hospital is old, smelly and run-down. The rudeness/niceness level of staff was about 50/50. Like a lot of places in this area, the incompetence level of many of the staff was very lacking. We appreciate those that showed kindness and care to us, but unfortunately there were some who seemed bothered to help us. Doctor forgot to send all of the prescriptions home with us. Although the cafeteria staff was very nice, the food made me sick.
+
+8. Old, smelly, run-down, Cafateria food causes sickness
+9. Rude, Nice, Incompitent
+10. Doctor forgot to send prescriptions home
+11. Negative, appreciative of those who showed kindness and care
+12. sick from cafeteria food
+
+"They took my insurance card and driver's license at the ER, but didn't input it into system so they didn't get paid by my insurance. And guess who's now hounding me to get paid? The intake nurse didn't ""understand"" why I came in to the ER even though I explained that the CVS Minute Clinic wanted me to get a chest x-ray immediately because they thought I had pneumonia. They also refused to look at the notes from the CVS Minute Clinic. I will never go to this hospital ever again. They are completely incompetent."
+
+2. Patient
+9. Incompetent
+10. Did not input insurance or drivers licence information | dismissed concerns from CVS Minute Clinic
+11. Negative
+12. Did not recieve insurance payment due to admenastrative error
+14. ER
+
+Everyone was exceptionally courteous and professional.  Nothing was run down or in need of repair.  The Doctor was also the Director of ER services. VERY sharp and competent I recommend him highly.
+
+8. Well maintained
+9. Courteous, professional, sharp, competent
+11. Very Positive
+12. Recommend Doctor highly
+
+This is a revised review and belongs to Dr Arckmon, Dr Brown, Nurse Brian and sorry but I didn't catch the name of the LPN that works with this team nice young lady. My son has sickle cell and has not been getting treated well anywhere but thanks to this team  l believe they saved my son's life. He's been in and out the hospital for a month between here and chipley( the worst) and no one said they could do anything but treat him with powerful pain meds. This team did research and figured out the problem and now have a solution thank you all so much from the bottom of my heart. You all saved my son.
+
+1. Dr Arckmon - positive | Dr Brown - positive | Nurse Brian - positive
+2. Mother
+3. Sickle Cell
+4. Researched and figured out problem, provided solution
+11. Very Positive, thankful
+12. Saved son's life
+
+First time coming there when I had a seizure  due to a UTI and they were engaging and kept my mind off of being their and even held a conversation with me about anime. I will definitely  come back.
+
+2. Patient
+3. UTI and seizure
+9. Engaging, Attentive
+11. Positive
+12. Will return
+
+"They took X-rays of my wife’s broken hip and SENT HER HOME. As in, her existing artificial hip had BROKEN OFF OF HER PELVIS. And they SENT HER HOME. A few days later, a real hospital in Birmingham did a hip replacement with bone grafts.  The excuse: we didn’t have a radiologist on hand to read the x-rays. It was the middle of a weekday. What kind of hospital doesn’t have a radiologist?!?! And besides that, Stevie Wonder could have looked at that x-ray and seen the massive break and the field of debris floating around, including 3 screws.  I would normally never wish anything this awful on anyone, but this crew has earned this sentiment: I hope every last one of them lives long enough to need extensive healthcare. And I hope they all receive the exact same level of ""care"" they provided to my wife. "
+
+2. Husband
+3. Broken hip
+9. Incompetent, sent home without treatment 
+10. No radiologist on hand to read x-rays
+11. Negative, spiteful
+12. Not treated at hospital
+
+I had total hip replacement surgery at Jackson Hospital on February 7, 2022. I was in the same hospital gown the entire 3 day stay. Two of the RNs were really amazing, going above and beyond. The CNAs at no time offered to assist with personal care, at no time was I offered a wash basin. They were unavailable at best. I was not even given a toothbrush until day 3. I worked as a CNA for decades, I am not sure of exactly what the CNAs do except vitals at the beginning of shift and emptying trash at the end of shift. The social worker was extremely rude and unprofessional.
+
+1. RNs - amazing | Social workers - rude, unprofessional | CNAs - inattentive, unavaliable
+2. Patient
+3. Total hip replacement surgery
+9. amazing, rude and unprofessional, inattentive
+10. Not offered wash basin, new gown, or toothbrush for entire 3 day stay
+11. Negative
+13. 3 days
+
+We are from out of town here on vacation, and had an episode that presented like a heart attack. Being that I have had an attack previously, it very scary.  Dr. Molina the ER physician, and Nurse Eric were not only very professional, they were extremely kind.  My experience was pleasant even though in a stressed situation.  I'm okay praise God. Thank you so much for your care.
+
+1. Dr. Molina - processional, kind | Nurse Eric - professional, kind
+2. Patient
+3. Episode that presented like a heart attack
+9. Professional, Kind
+11. Positive, thankful
+12. Recovered
+
+I went to the ER because of a broken tooth around 11pm. I was initially given strong pain pills & a prescription to pick up antibiotics the next day. Hours later my mouth was still throbbing so I returned &  asked to be administered an antibiotic instead of more pain pills ( I am a dental assistant myself and aware of how to treat the infection) The nurse however told me “too bad” when I asked about a penicillin shot to ease the pain and also said my pain only looked mild because I had no tears. She basically treated me like a drug addict and spoke with a snarky attitude. As a black woman it’s frustrating to be stereotyped and words can’t describe how much more horrible she made an already bad night. I appreciate the aides who were helpful but there are some nasty apples in that bunch.
+
+2. Patient
+3. Broken Tooth
+4. Given strong pain pills, prescription for antibiotics
+9. Nasty, snarky
+10. Refused to provide penicillin shot | racially stereotyped patient | treated patient like a drug addict
+11. Negative, frustrated
+
+Had to go to Jackson ER today in serious pain. They were kind in checking in,  not a terrible wait an then th ER Nurse, BaLinda Taylor was phenomenal in her care and gr8 bed side manor. Th rest of th ER staff was very caring also. But BaLinda walked me thru th procedure an assured me she had been thru th same an did th same plenty times before. I left feeling 100% better an she also gave gr8 daily preventive measures... It's not that I don't want to see her ever again,,, just NOT in that capacity!!! Keep up th gr8 demeanor BaLinda!!!
+
+1. BaLinda Taylor - phenomenal care, great bed side manor | ER staff - very caring
+2. Patient
+3. Serious Pain
+9. Phenomenal, caring
+11. Very Positive
+12. Fully recovered
+
+Daughter had surgery and we had a sweet nurse who was so kind and patient but after surgery they told us 1 parent could go back before they came to recovery room.. nurse from there was extremely rude and set on making a scene not explaining what was going on accused her father of trying to close a door on her threatening to call security. You dont treat someone who's small child has just gone through a traumatic experience, (she has terrible anxiety) that way absolutely no reason Other than that the other nurse was a sweetheart. Beware of the skinny rude blonde one 
+
+2. Parent
+3. Surgery
+9. Sweet, rude
+10. Falsely accused of trying to close a door on nurse | threatened to call security
+11. Negative
+
+My mother had to be transported here since they had the capabilities to do a certain scan that another hospital did not. From the time she arrived and over her 5-day stay, everyone on the third floor was wonderful, caring and attentive. The nurses, x-ray, case management, the doctor and CNAs.
+
+1. Nurses - wonderful, caring, attentive | Doctors  - wonderful, caring, attentive | CNAs  - wonderful, caring, attentive
+2. Mother
+3. Scan
+9. Wonderful, caring, attentive
+11. Very Positive
+13. 5 days
+
+Clumsy me fell last night and tried to rest and hope the pain would stop, honestly I think my worry about my prior neck surgery and the fall messing it up had me worried more than anything! So I went to the ER at Jackson Hospital in Marianna.  I dread ER visits the very thought makes me feel even worse🙄...This was my first time going to this hospital and let me tell you this staff goes above and beyond their call of duty! So organized, efficient, dedicated and respectful to their patients needs and everyone was just as nice as could be! Thankyou all so much, if you knew the train wreck week I been having you would understand why your kindness meant so much to me. God Bless you all😀!
+
+2. Patient
+3. Neck pain from fall
+9. Organized, efficient, dedicated, respectful 
+11. Very Positive, thankful
+14. ER
+
+I was with a group traveling down south for an exciting weekend and we had an overnight stop in Marianna. I have a medical condition that can be pretty cruddy sometimes tomdeal with and ended up in the emergency room at Jackson Hospital and I cannot say enough nice things about the staff at this hospital. They were thorough and were the kindest hospital staff I’ve ever met. I don’t know if anyone from the staff on Saturday Feb 22nd will see this but thank you again for your help and kindness.
+
+2. Patient
+3. Medical condition
+9. Thorough, Kind
+11. Very Positive, thankful
+14. ER
+
+My fiancé gave birth to my son here and the hospital stopped me from seeing my son due to their rule of only one and the same person as a visitor with no switching out at all. They have taken upon themselves to revoke my right as a father to see my child. They sent my fiancé home while she was in labor and 3 hours later we were back because she gave birth to my child. Never would go to this hospital even if I was dying.
+
+2. Father
+3. Childbirth
+10. Revoked father's right to see child | sent fiancé home while in labor, returned 3 hours later to give birth
+11. Negative
+
+This hospital is just rough and unorganized, at first I come into the er entrance and the lady asks me if I have any cold or flu like symptoms, well I did so I told her the truth, so she takes my temperature & says to wait outside so she can let the people in the back know, even though I let her know I didn't come in for my cold, I came in for excessive bleeding, I was sitting outside for 10 minutes til another nurse asked me if I've been helped. The first lady didn't even sign me in, so now I got signed in, I finally get back to a room & wait for about 30 mins for another lady to come in and try to give me an envelope and said it was from financial aid to help with the bill. Which was odd to me considering, nobody has seen me to treat me yet, and secondly, all I've done in that moment was walk in the building & sign in, nobody even asked me for insurance info, just straight jumping to the bill before the doctor even sees me. I probably will avoid this place at all cost in the future, even if dying.
+
+2. Patient
+3. Excessive bleeding
+6. 10 minutes
+10. Required to sit outside for 10 minutes while excessivly bleeding because of flue like sumptoms
+11. Negative, avoid at all costs
+14. ER
+
+WORSE PLACE EVER!!!! Sat in back for over a hour NOBODY absolutely NOBODY came in nor did anybody greet me I had to go to the nurse station twice to find out when somebody was at lease going to speak to me but all they keep saying is that I am next... If I could I would leave ZERO STARS!!!!
+
+2. Patient
+6. Over an hour
+10. Sat in the back for over an hour but no one greeted the patient
+11. Very Negative, would give zero stars
+
+This is the absolute worst hospital I have ever been to in my entire life. I was attacked by a wild raccoon, after arriving to the ER and waiting for 1.5 hours I finally get seen by some Physicians Assistant who barely looks at my wound and laxidasically says “I doubt the raccoon has rabies, you should be fine, I’ll have your discharge papers soon.” Luckily for me I killed the raccoon and took it to the health department who sent it off for testing. Low and behold the raccoon did have rabies, so if it hadn’t been for me taking action into my own hands and taking the raccoon to get sent off for testing I’d probably be dead by now!!! I hope this hospital gets shut down!
+
+2. Patient
+3. Attacked by wild raccoon
+6. 1.5 hours
+10. Physician's Assistant barely looked at wound and incorrectly concluded the patient did not have rabies
+11. Very Negative, hopes hospital gets shut down
+14. ER
+
+If you really care about your loved ones then I suggest driving alittle bit further down the road to Dothan or go to Tallahassee to get your medical care. I had a loved one go into the hospital on the 23 of last month with symptoms of pneumonia and they told her go to home and gave her an IV but other than that nothing. Knowing she had cancer they didn’t keep her over night for any further testing or anything then the next thing I know two days later she is on a ventilator fighting for her life. Unfortunately after all the work that was actually supposedly done we lost her that night. The doctor knew she has cancer and still didn’t do anything. If I could I would have this hospital shut down, they didn’t do anything and don’t do anything at all. Basically, since this is the only hospital in Marianna they do whatever they want and give you the treatment is subpar at best. Screw this hospital.
+
+2. Family Member
+3. Pneumonia
+7. No specified age
+9. Knew patient had cancer but still didn't do anything
+10. Knew patient had cancer and discharged them with only an IV, got put on a ventilator two days later and passed away
+11. Very Negative, would have hospital shut down
+12. patient passed away 
